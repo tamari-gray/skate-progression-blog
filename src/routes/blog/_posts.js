@@ -14,14 +14,38 @@ const posts = [
 
 		`
 	},
+	{
+		title: 'How to be happy every skate',
+		slug: 'how-to-be-happy-every-skate',
+		date: '01/04/2020',
+		html: `
+		<p>
+			Have you ever been super excited to skate all day, planning and waiting, then you get to the spot or the park and you really just don't want to skate? <br>
+		</p>
 
+		<p> 
+			That happened to me today, it was a ledgendary spot too. When i got there i was so hyped, but my legs wouldnt work, and motivation quickly fled. I tried having a nap, doing a warm up routine, and tricking myself to think that im full of energy to skate. But i couldnt beat this heavy, gloomy feeling. <br>
+		</p>
+
+		<p> 
+		It was the worst going to a spot, not being able to skate, and not knowing why. Im still kinda torn about it. <br>
+		</p>
+
+		<p> 
+		And i wish i couldve done some more slappy grinds, they seemed fun.
+		</p>
+
+		<h2> How do you be happy every skate? </h2>
+		<p> be happy with an ollie, be happy with rolling around. Cause one day, even that might not be possible.</p>
+		`
+	},
 	// template exxample post
 	// {
 	// 	title: 'How to use Sapper',
 	// 	slug: 'how-to-use-sapper',
 	// 	html: `
 	// 		<h2>Step one</h2>
-	// 		<p>Create a new project, using <a href='https://github.com/Rich-Harris/degit'>degit</a>:</p>
+	// 		<p>Create a new project, using <a href='https://github.com/Rich-Harris/degit'>degit</at>:</p>
 
 	// 		<pre><code>npx degit "sveltejs/sapper-template#rollup" my-app
 	// 		cd my-app
