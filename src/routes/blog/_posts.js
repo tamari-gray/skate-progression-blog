@@ -39,6 +39,28 @@ const posts = [
 		<p> be happy with an ollie, be happy with rolling around. Cause one day, even that might not be possible.</p>
 		`
 	},
+	{
+		title: 'How to get in the zone when your not feeling it',
+		slug: 'how-to-get-in-the-zone',
+		date: '02/04/2020',
+		html: `
+		<p>
+			<strong> change it up! </strong>
+		</p>
+
+		<p> 
+			Today I skated a manny pad in a reserve alone and i had fun, skated heaps, and got some tricks. 
+			After lunch I went and skated this footpath flatground spot. I was not feeling it at all but I was too scared to try skate anywhere else during level 3 isolation. 
+			I ended up trying to skate but mostly sitting down alot.
+			When I left I saw Hans and we had a 5 minute skate at this other open spot. I started having so much fun like straight away, got heaps of energy and was landing tricks. 
+		</p>
+
+		<p>
+			<To get in the zone you have to have fun. Its ok not to find every spot fun, you can always move on and find another :)
+		</p>
+
+		`
+	},
 	// template exxample post
 	// {
 	// 	title: 'How to use Sapper',
