@@ -56,7 +56,7 @@ const posts = [
 		</p>
 
 		<p>
-			<To get in the zone you have to have fun. Its ok not to find every spot fun, you can always move on and find another :)
+			To get in the zone you have to have fun. Its ok not to find every spot fun, you can always move on and find another :)
 		</p>
 
 		`
