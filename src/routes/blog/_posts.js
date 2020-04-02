@@ -2,7 +2,7 @@ const posts = [
 	{
 		title: 'How to commit to rails',
 		slug: 'how-to-commit-to-rails',
-		date: '29/03/2020',
+		date: '30/03/2020',
 		html: `
 		<p> Today I attempted and landed a 50-50 on a circle rail. It was scary and I don't think i would've done it if I didnt watch the nine club <a href="https://www.youtube.com/watch?v=A-3LUnPO5OI&t=4779s">Bastien Salabanzi</a> and <a href="https://www.youtube.com/watch?v=Aqmjl5NxhH0"> Nyjah Huston </a> interviews the past couple days. </p>
 		<p>They both shared stories of why when they go for rails, (or any scary trick) that you have to commit 100%. Any shred of doubt you have rolling up, or mid pop will only increase the chance of injury.</p>
@@ -17,7 +17,7 @@ const posts = [
 	{
 		title: 'How to be happy every skate',
 		slug: 'how-to-be-happy-every-skate',
-		date: '01/04/2020',
+		date: '31/03/2020',
 		html: `
 		<p>
 			Have you ever been super excited to skate all day, planning and waiting, then you get to the spot or the park and you really just don't want to skate? <br>
@@ -42,7 +42,7 @@ const posts = [
 	{
 		title: 'How to get in the zone when your not feeling it',
 		slug: 'how-to-get-in-the-zone',
-		date: '02/04/2020',
+		date: '01/04/2020',
 		html: `
 		<p>
 			<strong> change it up! </strong>
@@ -58,6 +58,26 @@ const posts = [
 		<p>
 			To get in the zone you have to have fun. Its ok not to find every spot fun, you can always move on and find another :)
 		</p>
+		get-in-the-zone
+		`
+	},
+	{
+		title: 'How to reach new limits in skateboarding',
+		slug: 'how-to-grow',
+		date: '02/04/2020',
+		html: `
+		<p>
+			<strong> Find a squad </strong>
+		</p>
+
+		<p> 
+			I watched the japan 2019 world series and everyone there is on a completely different level. And they all skate together. If you skated with people who all pushed their limits to that level, you would grow at an insane amount.
+		</p>
+
+		<p> 
+			you can get really far on your own. But skating with a squad will take you to new heights
+		</p>
+
 
 		`
 	},
