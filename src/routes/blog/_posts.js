@@ -81,6 +81,25 @@ const posts = [
 
 		`
 	},
+	{
+		title: 'How to create magical coincidences',
+		slug: 'how-to-create-magical-coincidences',
+		date: '03/04/2020',
+		html: `
+		<p>
+			<strong> Enjoy whats happening now, as much as you can </strong>
+		</p>
+
+		<p>
+			Today I went and skated a basketball court, had a real mean solo skate. Then biked around kinda aimlessly, not eagerly searching for anything, but real happy with just biking. I ended up finding a school, seeing a mate having a mean skate sesh! It all came out of no where, i didnt expect that to happen at all.  
+		</p>
+
+		<p> 
+			I think by really enjoying whatever is happening NOW, you allow greater opportunities to flow into your life. 
+		</p>
+
+		`
+	},
 	// template exxample post
 	// {
 	// 	title: 'How to use Sapper',
