@@ -122,6 +122,44 @@ const posts = [
 
 		`,
   },
+  {
+    title: "First thing you should do to ensure you get into flow state",
+    slug: "First-thing-to-get-into-flow-state",
+    date: "08/04/2020",
+    html: `
+		<p>
+			<strong>Enjoy rolling on your board</strong>
+    </p>
+    
+    <p> 
+      Today i saw a little kid have so much fun just riding around on his board. He was smiling and going hard. While I was sitting down, not very motivated to skate hard at all.
+    </p>
+
+    <p>
+      No matter how you are feeling, just rolling around and really feeling the board, and the ground. You cant not have fun, and when you start to really enjoy rolling around, well with me I instinctively start challenging myself. By carving, ollieing around, doing small challenges, winning, i felt really good and was having heaps of fun before i knew it. I kept challenging myself more and more and i wound up doing nollie gazelles! After not havinig the energy to even kickflip.
+    </p>
+    
+    <h3> Summary </h3>
+    <p>
+    If you feel unmotivated and are sitting down while out skating.
+    Do this to have fun, get energy, and start flowing!
+    </p>
+
+
+    <ol>
+      <li> Roll around </li>
+      <li> Feel the board, feel the ground </li>
+      <li> Let your mind wander </li>
+    </ol>
+
+    <p>
+      You should instinctively start to challenge yourself, looking for ways to up the anti by adding ollies or carving etc. 
+     <br> From there let the momentum take you!
+     <br> I hope you can always have a fun and productive skate!
+
+    </p>
+		`,
+  },
 
   // template exxample post
   // {
