@@ -15,32 +15,25 @@
     }
   }
 
-  span {
-    font-weight: bold;
+  a {
+    text-decoration: none;
+    font-style: italic;
   }
 </style>
 
 <svelte:head>
-  <title>skate progression</title>
+  <title>I just wanna skate</title>
 </svelte:head>
 
-<h1>Skate progression</h1>
+<h1>I just wanna skate</h1>
 
 <div class="about">
   <p>
     Im Tamari Gray-kaiwahia.
     <br />
-    Grew up in NZ.
+    My dream is to beable to skate and have fun every, single, day.
     <br />
-    Been skating 11 years.
-    <br />
-    and only recently realised.
-    <br />
-    <span>I can have fun and skate every single day</span>
-    <br />
-    If you're holding yourself back from just doing what you love,
-    <br />
-    you will find something usefull
-    <a href="/blog">here!</a>
+    Come along and
+    <a href="/blog">see if I can make it.</a>
   </p>
 </div>

@@ -158,6 +158,54 @@ const posts = [
      <br> I hope you can always have a fun and productive skate!
 
     </p>
+    `,
+  },
+  {
+    title: "How to get things done without stressing",
+    slug: "how-to-get-things-done-without-stressing",
+    date: "09/04/2020",
+    tags: ["life", "universe"],
+    html: `
+		<p>
+			<strong> let go of the desired outcome </strong>
+		</p>
+
+    <p>
+      I really wanted to make $80 doing uber eats today..
+      Rent is due next week and I need to make some money now!
+      Today I went out and worked from 12 for a couple of hours, only managing to make $15. When I went out for the night shift I was ready to go hard and put my all in to make as much money as i could, CAUSE I HAD TO.
+      I was so worried about not paying rent that every corner i turned i was questioning whether this would lead me to more money then that street. 
+      At one point I was halfway between 2 towns and I couldnt decide where to go, my heart was racing and i was low key freaking out because i didnt know which way would be more successfull.
+      Then the uber gods looked down on me and gave me an order from one of the towns so i didnt have to choose.
+      After that i didnt know where to go again, but instead of stressing out, I just sat down and had a snack cause i felt like it. 
+      <strong>As soon as i finished eating</strong> i got an order from the shop across from me. Then i did the same thing and got an order straight away, and again. 
+      It felt like everything was falling into place and i wasnt fighting it.
+		</p>
+
+    <p> 
+      By eating and chilling, I put myself in a position where i wasnt worried about anything. I was eating snacks, and just enjoying that.
+      By not worrying about rent or money, I felt calm, more positive and i really believe that allowed for more orders to come through, and for all the pieces to start dropping in place.
+      I was happy, and fully trusting the unverse.
+    </p>
+
+    <h3> Summary </h3>
+    <p>
+    If you're stressing out while trying to complete something and nothing is working. Then follow these steps to allow things to flow and fall into place.
+    </p>
+
+
+    <ol>
+      <li> Do something that makes you feel relaxed </li>
+      <li> expect NOTHING </li>
+      <li> have fun and let your instincts take over</li>
+    </ol>
+
+    <p>
+      I hope you can use this to help your rough days run abit smoother. later g
+    </p>
+    
+
+
 		`,
   },
 
