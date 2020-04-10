@@ -1,3 +1,7 @@
+<script>
+  import Button, { options } from "@sveltekit/ui/Button";
+</script>
+
 <style>
   h1 {
     font-size: 2.8em;
@@ -21,10 +25,13 @@
 
   a {
     text-decoration: none;
-    font-style: italic;
+    margin-right: 1.6em;
   }
   a:hover {
     color: rgba(255, 62, 0, 0.75);
+  }
+  .reason {
+    font-style: italic;
   }
 </style>
 
@@ -33,17 +40,23 @@
 </svelte:head>
 
 <h1>
-  I just wanna
-  <span style="color: rgba(255, 62, 0, 0.75);">skate</span>
+  Sup my
+  <span style="color: rgba(255, 62, 0, 0.75);">G!</span>
 </h1>
 
 <div class="about">
   <p>
-    Im Tamari Gray-kaiwahia.
+    I'm Tam,
     <br />
-    My dream is to beable to skate and have fun. Every, Single, Day.
+    and I just wanna skate.
     <br />
-    Come along and
-    <a href="/blog">see if I can make it.</a>
+    <span class="reason">Every, Thingle, Day.</span>
+    <br />
+    you wanna come?
+    <br />
   </p>
+  <a href="/blog" style="margin-top:1.6em">
+    <Button>yeah g</Button>
+
+  </a>
 </div>
