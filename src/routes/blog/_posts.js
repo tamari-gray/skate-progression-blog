@@ -208,6 +208,22 @@ const posts = [
 
 		`,
   },
+  {
+    title: "The secret to unlimited potential",
+    slug: "the-secret-to-unlimited-potential",
+    date: "10/04/2020",
+    html: `
+		<p>
+      <strong> Skate your way </strong>
+      not how you think you should, skate how you want to!
+		</p>
+
+    <p>
+      I had so much fun skating today, doing the weirdest tricks, and I think I progressed. Im gonna keep trying it.
+		</p>
+
+		`,
+  },
 
   // template exxample post
   // {
