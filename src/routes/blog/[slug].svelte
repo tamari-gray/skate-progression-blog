@@ -15,6 +15,7 @@
 
 <script>
   export let post;
+  import Tag from "@sveltekit/ui/Tag";
 </script>
 
 <style>
@@ -46,6 +47,11 @@
   .date {
     font-style: italic;
   }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+  }
 </style>
 
 <svelte:head>
@@ -57,10 +63,15 @@
 <div class="content">
   {@html post.html}
 
-  <div style="display:flex; flex-wrap:wrap; ">
-    {#each post.tags as tag}
-      <p style="padding-right: 1em">{tag}</p>
-    {/each}
+  <div class="tags">
+    {#if post.tags}
+      <!-- content here -->
+      {#each post.tags as tag}
+        <div style="margin-right:1em">
+          <Tag class="hi">{tag}</Tag>
+        </div>
+      {/each}
+    {/if}
   </div>
   <p class="date">{post.date}</p>
 </div>
