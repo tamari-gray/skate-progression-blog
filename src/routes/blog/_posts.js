@@ -221,7 +221,33 @@ const posts = [
     <p>
       I had so much fun skating today, doing the weirdest tricks, and I think I progressed. Im gonna keep trying it.
 		</p>
+		`,
+  },
+  {
+    title: "The best project you can work on right now",
+    slug: "the-best-project-you-can-work-on-right-now",
+    date: "11/04/2020",
+    tags: ["life", "dev", "business", "happiness"],
+    html: `
+    <p>
+    To help others, to help yourself, to progress your skills, your career, make more income, be happy, present and balanced.
+    You need to  <strong> Solve your own problems. </strong>
+    And they dont have to be serious ones, actually, the funner the better.
+    </p>
 
+    <p>
+      By finding solving one of your own problems: <br>
+      The project automatically becomes funner and more interesting.
+      You don't need to worry about validating it with user research cause you are the primary user.
+      And you are <strong>100 times more likely to complete it </strong> because it will be something you enjoy.
+    </p>
+
+    <h3>Marketing your project</h3>
+    
+    <p>
+      Sell your project to the yourself that had the problem. You are the primary user,
+      because you are unique, youve created your own niche, now use your marketing skills to hone in!
+		</p>
 		`,
   },
 
