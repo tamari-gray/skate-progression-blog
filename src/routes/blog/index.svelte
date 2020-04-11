@@ -10,6 +10,10 @@
 
 <script>
   export let posts;
+  console.log(posts);
+
+  let reversePostsArr = [...posts].reverse();
+  console.log(reversePostsArr);
   import Card, { options } from "@sveltekit/ui/Card";
   import Skatedeck from "../../components/Skatedeck.svelte";
 </script>
@@ -34,6 +38,6 @@
 
 <h1>Recent posts</h1>
 
-{#each posts as post}
+{#each reversePostsArr as post}
   <Skatedeck {post} />
 {/each}
