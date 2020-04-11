@@ -242,6 +242,14 @@ const posts = [
       And you are <strong>100 times more likely to complete it </strong> because it will be something you enjoy.
     </p>
 
+    <p>
+      I've been pretty anxious about what I should be working on lately. Especially the last few days, I've learned so much on finding problems, niching down, growing an audience with the ultimate goal of being happy.
+      But I found myself <strong> not being happy </strong> haha, I wanted to take the best course of action and I got stuck in the future, hard.
+      So i just let go and asked myself "whats the funnest thing I can work on". And I did that, without knowing it I was solving a problem for a very specific niche (myself) and I was super motivated to get working on it.
+      I spent all day coding, there were so many hurdles, but I had fun.<strong> I had fricken heaps of fun!! </strong>
+      (The project was making an app where you can record and send you fart to your loved ones)  
+    </p>
+
     <h3>Marketing your project</h3>
     
     <p>
