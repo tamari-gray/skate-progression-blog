@@ -19,19 +19,20 @@
 
   @media (min-width: 480px) {
     h1 {
-      font-size: 4em;
+      font-size: 3.2em;
+    }
+    p {
+      font-size: 1.6em;
     }
   }
 
   a {
     text-decoration: none;
     margin-right: 1.6em;
+    color: rgba(255, 62, 0, 0.5);
   }
   a:hover {
     color: rgba(255, 62, 0, 0.75);
-  }
-  .reason {
-    font-style: italic;
   }
 </style>
 
@@ -40,23 +41,28 @@
 </svelte:head>
 
 <h1>
-  Sup my
-  <span style="color: rgba(255, 62, 0, 0.75);">G!</span>
+  Sup my G!
+  <!-- <span style="color: rgba(255, 62, 0, 0.75);">G!</span> -->
 </h1>
 
 <div class="about">
   <p>
-    I'm Tam,
+    Im Tamari,
     <br />
-    and I just wanna skate.
+    I'm trying to make a living from
     <br />
-    <span class="reason">Every, Thingle, Day.</span>
-    <br />
-    you wanna come?
+    <span style="font-weight:600">skateboarding</span>
+    and
+    <span style="font-weight:600">making apps</span>
     <br />
   </p>
-  <a href="/blog" style="margin-top:1.6em">
-    <Button>yeah g</Button>
+  <p>
+    I hope you can learn
+    <br />
+    something useful
+    <br />
+    from
+    <a href="/blog" style="margin-top:1.6em">my journey</a>
+  </p>
 
-  </a>
 </div>
