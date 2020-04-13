@@ -5,7 +5,6 @@
 <style>
   h1 {
     font-size: 2.8em;
-    /* text-transform: uppercase; */
     font-weight: 500;
   }
 

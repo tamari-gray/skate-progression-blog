@@ -139,7 +139,7 @@ const posts = [
       No matter how you are feeling, just rolling around and really feeling the board, and the ground. You cant not have fun, and when you start to really enjoy rolling around, well with me I instinctively start challenging myself. By carving, ollieing around, doing small challenges, winning, i felt really good and was having heaps of fun before i knew it. I kept challenging myself more and more and i wound up doing nollie gazelles! After not havinig the energy to even kickflip.
     </p>
     
-    <h3> Summary </h3>
+    <h2> Summary </h2>
     <p>
     If you feel unmotivated and are sitting down while out skating.
     Do this to have fun, get energy, and start flowing!
@@ -188,7 +188,7 @@ const posts = [
       I was happy, and fully trusting the unverse.
     </p>
 
-    <h3> Summary </h3>
+    <h2> Summary </h2>
     <p>
     If you're stressing out while trying to complete something and nothing is working. Then follow these steps to allow things to flow and fall into place.
     </p>
@@ -250,7 +250,7 @@ const posts = [
       (The project was making an app where you can record and send you fart to your loved ones)  
     </p>
 
-    <h3>Marketing your project</h3>
+    <h2>Marketing your project</h2>
     
     <p>
       Sell your project to the yourself that had the problem. You are the primary user,
@@ -258,31 +258,72 @@ const posts = [
 		</p>
 		`,
   },
+  {
+    title: "How to learn scary tricks FASTER",
+    slug: "how-to-learn-scary-tricks-faster",
+    date: "13/04/2020",
+    tags: ["skate", "progression", "fun"],
+    html: `
+		<p>
+      <strong> Take the fear away. </strong>
+      </p>
+      
+      <p>
+      If there's no fear, then you commit more, and when you commit more you succeed more! 
+      <br>
+      Increase successfull attempts => faster learning process => Get dat trick
+      <br>
+      </p>
+
+      <p>
+      Added bonus: because your landing more often, you're gonna have alot more fun ;)  
+      </p>
+       
+    <h2>
+      How do I take the fear away from a trick?
+    </h2>
+
+    <p>
+      <strong> Try it on the smallest, easiest version of that obstacle </strong>
+    </p>
+    
+    <p>
+      Today I skated curbs, all day haha. There was this one long curb that was a deck high and had grass on the top.
+      The grass and the fact that it would not slide made it seem like the safest cloud to skate on,
+      so I tried tricks I would never try on an actual rail or box like bk 360 lip, fr 360 lip, bigger flip boardslide.
+      And while I was trying them, I was landing, or getting really close to landing like 80% of the time. 
+      And <strong> figuring out their secrets </strong> while not actually doing the trick. 
+      (curbs do not count lol, especially if they dont slide)
+      If I was gonna try learn bk 360 lip on a small rail, It would take me forever cause I would not commit to that AT ALL.
+      But i think I really figured it out on the curb, and I wanna try it a bit more, but I think Ill beable to transition to a rail really easily because I learnt and understood the fundamentals of the trick. 
+      Timing, shoulders, angle, where to look. All from trying it on a curb.
+      Im definitely gonna keep this up and I hope it does transfer easily to a rail.
+    </p>
+    <p>
+    I hope by using this you can shortcut your way past fear and <strong> get your dreams tricks </strong> down!
+		</p>
+    
+		`,
+  },
 
   // template exxample post
   // {
-  // 	title: 'How to use Sapper',
-  // 	slug: 'how-to-use-sapper',
-  // 	html: `
-  // 		<h2>Step one</h2>
-  // 		<p>Create a new project, using <a href='https://github.com/Rich-Harris/degit'>degit</at>:</p>
+  //   title: "The secret to unlimited potential",
+  //   slug: "the-secret-to-unlimited-potential",
+  //   date: "10/04/2020",
+  //   tags: ["life", "dev", "business", "happiness"],
 
-  // 		<pre><code>npx degit "sveltejs/sapper-template#rollup" my-app
-  // 		cd my-app
-  // 		npm install # or yarn!
-  // 		npm run dev
-  // 		</code></pre>
+  //   html: `
+  // 	<p>
+  //     <strong> Skate your way </strong>
+  //     not how you think you should, skate how you want to!
+  // 	</p>
 
-  // 		<h2>Step two</h2>
-  // 		<p>Go to <a href='http://localhost:3000'>localhost:3000</a>. Open <code>my-app</code> in your editor. Edit the files in the <code>src/routes</code> directory or add new ones.</p>
-
-  // 		<h2>Step three</h2>
-  // 		<p>...</p>
-
-  // 		<h2>Step four</h2>
-  // 		<p>Resist overdone joke formats.</p>
-  // 	`
-  // }
+  //   <p>
+  //     I had so much fun skating today, doing the weirdest tricks, and I think I progressed. Im gonna keep trying it.
+  // 	</p>
+  // 	`,
+  // },
 ];
 
 posts.forEach((post) => {
